@@ -3,7 +3,7 @@
   "displayName": "Grok Dark Theme",
   "description": "A dark theme inspired by Grok 3 from xAI, featuring black, white, grey, and AI-themed accents.",
   "version": "1.0.0",
-  "publisher": "Joe King",
+  "publisher": "JosephKing",
   "engines": {
     "vscode": "^1.60.0"
   },
