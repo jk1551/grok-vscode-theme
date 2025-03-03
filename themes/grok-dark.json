@@ -1,0 +1,100 @@
+{
+    "name": "Grok 3 Dark",
+    "type": "dark",
+    "colors": {
+      "editor.background": "#000000",
+      "editor.foreground": "#FFFFFF",
+      "editorCursor.foreground": "#FFFFFF",
+      "editor.lineHighlightBackground": "#222222",
+      "editor.selectionBackground": "#444444",
+      "editorHoverWidget.background": "#1A1A1A",
+      "activityBar.background": "#000000",
+      "activityBar.foreground": "#FFFFFF",
+      "sideBar.background": "#111111",
+      "sideBar.foreground": "#FFFFFF",
+      "statusBar.background": "#000000",
+      "statusBar.foreground": "#FFFFFF",
+      "tab.activeBackground": "#333333",
+      "tab.inactiveBackground": "#1A1A1A"
+    },
+    "tokenColors": [
+      {
+        "scope": "comment",
+        "settings": {
+          "foreground": "#808080"
+        }
+      },
+      {
+        "scope": "keyword",
+        "settings": {
+          "foreground": "#008000"
+        }
+      },
+      {
+        "scope": "string",
+        "settings": {
+          "foreground": "#0000FF"
+        }
+      },
+      {
+        "scope": "number",
+        "settings": {
+          "foreground": "#FF8000"
+        }
+      },
+      {
+        "scope": "variable",
+        "settings": {
+          "foreground": "#FFFFFF"
+        }
+      },
+      {
+        "scope": "function",
+        "settings": {
+          "foreground": "#0000FF"
+        }
+      },
+      {
+        "scope": "constant",
+        "settings": {
+          "foreground": "#800080"
+        }
+      },
+      {
+        "scope": "entity.name.type",
+        "settings": {
+          "foreground": "#FFFF00"
+        }
+      },
+      {
+        "scope": "operator",
+        "settings": {
+          "foreground": "#FFFFFF"
+        }
+      },
+      {
+        "scope": "punctuation",
+        "settings": {
+          "foreground": "#FFFFFF"
+        }
+      },
+      {
+        "scope": "entity.name.tag",
+        "settings": {
+          "foreground": "#FF0000"
+        }
+      },
+      {
+        "scope": "entity.other.attribute-name",
+        "settings": {
+          "foreground": "#008000"
+        }
+      },
+      {
+        "scope": "meta.tag.attribute-value",
+        "settings": {
+          "foreground": "#0000FF"
+        }
+      }
+    ]
+  }

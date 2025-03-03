@@ -1,0 +1,34 @@
+{
+  "name": "grok-vscode-theme",
+  "displayName": "Grok Dark Theme",
+  "description": "A dark theme inspired by Grok 3 from xAI, featuring black, white, grey, and AI-themed accents.",
+  "version": "1.0.0",
+  "publisher": "Joe King",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "grok",
+    "AI",
+    "xAI"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Grok Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/grok-dark.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/grok-vs-code-theme.git"
+  },
+  "license": "MIT"
+}
